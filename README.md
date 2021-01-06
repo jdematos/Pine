@@ -11,6 +11,6 @@ I will begin to diverge from "Hazel" with the following changes to come:
 
 * Implement a different logging system (PENDING)
 
-* Implement Cmake (PENDING)
+* Implement CMake (PENDING)
 
 * Implement Google's unit testing framework (PENDING)
